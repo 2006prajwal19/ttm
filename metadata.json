@@ -1,0 +1,6 @@
+{
+  "name": "Aetheria 3D Tours & Traveller Management System",
+  "description": "An immersive 3D travel platform and full-stack Tours & Traveller Management System with interactive globe, booking workflows, and comprehensive admin controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
